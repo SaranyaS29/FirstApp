@@ -11,7 +11,7 @@ const HomeScreen = ({ navigation }) => {
       />
       <View style={styles.separator} />
       <Button
-        title="Scan QR Code"
+        title="Scan QR Codee"
         onPress={() => navigation.navigate('ScanQRCode')}
       />
     </View>
